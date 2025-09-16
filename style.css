@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #a33a3a;
+    background-color: #7e595942;
     color: #fff;
 }
 
 header {
-    background-color: #f125e7;
+    background-color: #000000;
     padding: 20px;
     display: flex;
     justify-content: space-between;
